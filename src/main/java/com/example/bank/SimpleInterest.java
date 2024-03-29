@@ -1,6 +1,10 @@
 package com.example.bank; 
 
-public class SimpleInterest{ 
+public class SimpleInterest{
+	private SimpleInterest{
+	
+	}
+	
 	
 public static double calculateSimpleInterest(
 		double amount,
