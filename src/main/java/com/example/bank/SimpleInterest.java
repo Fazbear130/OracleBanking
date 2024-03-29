@@ -1,8 +1,7 @@
 package com.example.bank; 
 
 public class SimpleInterest{
-	private SimpleInterest{
-	
+	private SimpleInterest(){
 	}
 	
 	
